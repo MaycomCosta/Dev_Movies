@@ -1,7 +1,7 @@
 import { Routes, Route } from 'react-router-dom'
 
 import { Home, Movies, Series, Detail } from '../containers/'
-import DefaultLayout from '../layout/defaultLayout'
+import DefaultLayout from '../layout/DefaultLayout'
 
 function Router() {
   return (
