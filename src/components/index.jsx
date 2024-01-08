@@ -1,0 +1,7 @@
+export * from '../components/Button'
+export * from '../components/Card'
+export * from '../components/Header'
+export * from '../components/Modal'
+export * from '../components/Slider'
+export * from '../components/Genres'
+export * from '../components/Credits'
